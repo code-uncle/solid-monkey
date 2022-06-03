@@ -1,0 +1,15 @@
+{
+  "name": "solid-monkey",
+  "version": "1.0.0",
+  "description": "Tech Form Generator",
+  "main": "solid-gen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "solid-monkey"
+  },
+  "author": "Isaac Pek",
+  "license": "ISC"
+}
