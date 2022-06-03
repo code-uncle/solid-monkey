@@ -11,5 +11,8 @@
     "url": "solid-monkey"
   },
   "author": "Isaac Pek",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "pdfkit": "^0.13.0"
+  }
 }
